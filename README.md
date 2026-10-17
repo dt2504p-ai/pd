@@ -52,7 +52,6 @@
       alt="Tech Stack"
   </h2>
 
-    />
   </p>
 
   <p>
