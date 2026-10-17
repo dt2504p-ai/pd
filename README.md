@@ -31,5 +31,5 @@ I’m a Full-stack Web Developer who loves building practical web applications a
 </div>
 
 <div align="center">
-  <img src="./assets/spacebear.gif" width="32" alt="Space bear">
+  <img src=".assets/spacebear GIF" width="32" alt="Space bear">
 </div>
