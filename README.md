@@ -22,13 +22,13 @@ I’m a Full-stack Web Developer who loves building practical web applications a
 </p>
 
 <div align="left">
-  📍 Hiện đang sinh sống và học tập tại Trà Vinh, Việt Nam
+  📍 Currently living and studying in Trà Vinh, Vietnam
   <br>
-  🎓 Sinh viên năm 4 ngành Công nghệ Thông tin tại Đại học Trà Vinh
+  🎓 Fourth-year Information Technology student at Trà Vinh University
   <br>
-  🐍 Hiện đang học Python và nâng cao kỹ năng lập trình
+  🐍 Currently learning Python and improving my programming skills
   <br>
-  🚀 Áp dụng các công nghệ đã học để xây dựng các project thực tế
+  🚀 Applying the technologies I have learned to build practical, real-world projects
 </div>
 
 <h2>Software & Technology</h2>
@@ -53,6 +53,6 @@ I’m a Full-stack Web Developer who loves building practical web applications a
 
 <br><br>
 
-<img src="./assets/spacebear-transparent.gif" width="40" alt="Space bear">
-
+<div align="center">
+  <img src="./assets/spacebear-transparent.gif" width="40" alt="Space bear">
 </div>
