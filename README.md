@@ -47,6 +47,7 @@
   </p>
 
   <h2>Software & Technology
+        &nbsp;&nbsp;
         <img
       src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,python,php,postgres,mongodb,docker,git,github,vscode,postman"
       alt="Tech Stack"
