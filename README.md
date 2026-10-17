@@ -21,14 +21,15 @@ I’m a Full-stack Web Developer who loves building practical web applications a
 <a href="mailto:tranphudinh2405@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"></a>
 </p>
 
+<div align="left">
+  📍 Hiện đang sinh sống và học tập tại Trà Vinh, Việt Nam
+  <br>
+  🎓 Sinh viên năm 4 ngành Công nghệ Thông tin tại Đại học Trà Vinh
+  <br>
+  🐍 Hiện đang học Python và nâng cao kỹ năng lập trình
+  <br>
+  🚀 Áp dụng các công nghệ đã học để xây dựng các project thực tế
 </div>
-
-- 📍 Hiện đang sinh sống và học tập tại Trà Vinh, Việt Nam
-- 🎓 Sinh viên năm 4 ngành Công nghệ Thông tin tại Đại học Trà Vinh
-- 🐍 Hiện đang học Python và nâng cao kỹ năng lập trình
-- 🚀 Áp dụng các công nghệ đã học để xây dựng các project thực tế
-
-<div align="center">
 
 <h2>Software & Technology</h2>
 
