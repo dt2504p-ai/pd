@@ -6,11 +6,11 @@
     alt="Animated pixel banner"
   />
 
-  <h1>Hi 👋, I'm Trần Phú Dinh</h1>
-
-  <h3>Full-stack Web Developer</h3>
-
-  <p>────────────────────────</p>
+  <h1>
+    Hi 👋, I'm Trần Phú Dinh
+    <br>
+    <sub>Full-stack Web Developer</sub>
+  </h1>
 
   <h3>Contact me</h3>
 
@@ -34,6 +34,12 @@
         alt="Gmail"
       />
     </a>
+  </p>
+
+  <h2>Software & Technology</h2>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,python,php,postgres,mongodb,docker,git,github,vscode,postman" />
   </p>
 
 </div>
