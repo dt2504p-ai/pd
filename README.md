@@ -11,40 +11,34 @@
     <br>
     <sub>Full-stack Web Developer</sub>
   </h1>
-  <p1>
-      I’m a Full-stack Web Developer who loves building practical web applications and exploring new technologies. I work with JavaScript, TypeScript, Python, PHP, React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, and Docker. I’m always learning, improving my skills, and looking for ways to build better and more useful products.
-  </p1>
 
+</div>
+
+<div align="left">
+  <p>
+    I’m a Full-stack Web Developer who loves building practical web applications and exploring new technologies.
+    I work with JavaScript, TypeScript, Python, PHP, React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, and Docker.
+    I’m always learning, improving my skills, and looking for ways to build better and more useful products.
+  </p>
+</div>
+
+<div align="center">
 
   <h3>Contact me</h3>
 
-<p>
+  <p>
     <a href="https://facebook.com/">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+        src="https://cdn.simpleicons.org/facebook/1877F2"
         width="45"
         height="45"
         alt="Facebook"
       />
     </a>
-
     &nbsp;&nbsp;
-
     <a href="mailto:tranphudinh2405@gmail.com">
       <img
-        src="https://skillicons.dev/icons?i=gmail"
-        width="45"
-        height="45"
-        alt="Gmail"
-      />
-    </a>
-  </p>
-
-    &nbsp;&nbsp;
-
-    <a href="mailto:tranphudinh2405@gmail.com">
-      <img
-        src="https://skillicons.dev/icons?i=gmail"
+        src="https://cdn.simpleicons.org/gmail/EA4335"
         width="45"
         height="45"
         alt="Gmail"
@@ -55,7 +49,10 @@
   <h2>Software & Technology</h2>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,python,php,postgres,mongodb,docker,git,github,vscode,postman" />
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,python,php,postgres,mongodb,docker,git,github,vscode,postman"
+      alt="Tech Stack"
+    />
   </p>
 
 </div>
