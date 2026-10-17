@@ -9,7 +9,11 @@
   <h1>
     Hi 👋, I'm Trần Phú Dinh
     <br>
-    <sub>Full-stack Web Developer</sub>
+    <sub>
+      <span style="font-weight:400;">
+        Full-stack Web Developer
+      </span>
+    </sub>
   </h1>
 
 </div>
@@ -29,7 +33,7 @@
   <p>
     <a href="https://facebook.com/">
       <img
-        src="https://cdn.simpleicons.org/facebook/1877F2"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
         width="45"
         height="45"
         alt="Facebook"
@@ -40,10 +44,10 @@
 
     <a href="mailto:tranphudinh2405@gmail.com">
       <img
-        src="https://cdn.simpleicons.org/gmail/EA4335"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
         width="45"
         height="45"
-        alt="Gmail"
+        alt="Email"
       />
     </a>
   </p>
