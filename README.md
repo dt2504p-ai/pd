@@ -29,3 +29,7 @@ I’m a Full-stack Web Developer who loves building practical web applications a
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,python,php,postgres,mongodb,docker,git,github,vscode,postman" alt="Tech Stack">
 </div>
+
+<div align="center">
+  <img src="./assets/spacebear.gif" width="32" alt="Space bear">
+</div>
