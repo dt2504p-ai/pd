@@ -1,7 +1,3 @@
 <div align="center">
-  <img src="./assets/github-banner-1200x100.gif" width="100%" />
+  <img src="./assets/github-banner-walking-1200x200.gif" width="1200" height="200" />
 </div>
-
-<h1 align="center">Hi 👋, I'm Trần Phú Dinh</h1>
-
-<h3 align="center">Full-stack Web Developer</h3>
