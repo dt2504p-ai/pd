@@ -15,6 +15,11 @@ I’m a Full-stack Web Developer who loves building practical web applications a
 <div align="center">
 <h3>Contact me</h3>
 
+- 📍 Trà Vinh, Vietnam
+- 🎓 Sinh viên năm 4 — Công nghệ Thông tin, Đại học Trà Vinh
+- 📧 Email: [tranphudinh2405@gmail.com](mailto:tranphudinh2405@gmail.com)
+- 🌐 GitHub: [github.com/phdinh254](https://github.com/phdinh254)
+
 <p>
 <a href="https://facebook.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" height="45" alt="Facebook"></a>&nbsp;&nbsp;
 <a href="mailto:tranphudinh2405@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"></a>
