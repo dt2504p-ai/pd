@@ -11,7 +11,10 @@
     <br>
     <sub>Full-stack Web Developer</sub>
   </h1>
-  I’m a Full-stack Web Developer who loves building practical web applications and exploring new technologies. I work with JavaScript, TypeScript, Python, PHP, React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, and Docker. I’m always learning, improving my skills, and looking for ways to build better and more useful products.
+  <p1>
+      I’m a Full-stack Web Developer who loves building practical web applications and exploring new technologies. I work with JavaScript, TypeScript, Python, PHP, React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, and Docker. I’m always learning, improving my skills, and looking for ways to build better and more useful products.
+  </p1>
+
 
   <h3>Contact me</h3>
 
