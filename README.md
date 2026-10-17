@@ -6,8 +6,7 @@
   />
 
   <h1>Hi 👋, I'm Trần Phú Dinh</h1>
-
-  <h3>Full-stack Web Developer</h3>
+  <h4>Full-stack Web Developer</h4>
 </div>
 
 <div align="center">
