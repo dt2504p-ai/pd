@@ -6,11 +6,11 @@
     alt="Animated pixel banner"
   />
 
-  <h1>Hi 👋, I'm Trần Phú Dinh</h1>
-
-  <h3>Full-stack Web Developer</h3>
-
-  <p>────────────────────────</p>
+  <h1>
+    Hi 👋, I'm Trần Phú Dinh
+    <br>
+    <sub>Full-stack Web Developer</sub>
+  </h1>
 
   <h3>Contact me</h3>
 
