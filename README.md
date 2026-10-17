@@ -32,7 +32,23 @@ I’m a Full-stack Web Developer who loves building practical web applications a
 
 <h2>Software & Technology</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,python,php,postgres,mongodb,docker,git,github,vscode,postman" alt="Tech Stack">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Languages">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,nestjs,python,php" alt="Backend">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github" alt="Database and DevOps">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" alt="Tools">
+</p>
+
+</div>
 
 <br><br>
 
